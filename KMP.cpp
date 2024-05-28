@@ -48,3 +48,5 @@ int main()
     KMPMultipleTimes(text, pattern);
     return 0;
 }
+//
+https://codeforces.com/contest/1968/problem/G1
